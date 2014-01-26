@@ -1,0 +1,11 @@
+{
+  "name": "regex-patterns",
+  "version": "0.0.1",
+  "description": "Common regex patterns for use in validations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joe Modjeski <joe@modjeski.net>",
+  "license": "MIT"
+}
