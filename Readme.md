@@ -6,6 +6,4 @@ The goal of this repository is to encapsulate common regex validation patterns i
 Regex patterns provided
 ------------------------
 * email
-	* simple
-
-
+	* spec
