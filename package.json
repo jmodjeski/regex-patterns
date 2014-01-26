@@ -2,10 +2,24 @@
   "name": "regex-patterns",
   "version": "0.0.1",
   "description": "Common regex patterns for use in validations",
+  "keywords": [
+    "regex",
+    "patterns",
+    "validation"
+  ],
+  "homepage": "https://github.com/jmodjeski/regex-patterns",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jmodjeski/regex-patterns.git"
+  },
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "author": "Joe Modjeski <joe@modjeski.net>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "~1.17.1",
+    "should": "~3.1.0"
+  }
 }
